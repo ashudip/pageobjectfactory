@@ -1,0 +1,10 @@
+14:24:03,765 DEBUG devpinoyLogger:40 - Browser opened
+14:24:24,956 DEBUG devpinoyLogger:42 - Navigated to Url
+14:24:25,198 DEBUG devpinoyLogger:44 - Browser maximised
+14:24:25,351 DEBUG devpinoyLogger:47 - Top navigation object created
+14:24:34,803 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+14:24:34,808 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+14:24:34,812 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+14:24:34,815 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+14:24:34,815 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/home/ashudeep/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+14:24:35,634 DEBUG devpinoyLogger:54 - driver closed
